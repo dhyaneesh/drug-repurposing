@@ -1,0 +1,9 @@
+torch
+numpy
+pandas
+networkx
+plotly
+arango
+langchain
+langchain-community
+openai
